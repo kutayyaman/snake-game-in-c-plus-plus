@@ -1,14 +1,3 @@
-/****************************************************************************
-**					SAKARYA ÜNÝVERSÝTESÝ
-**			         BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-**				    BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-**				          PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-**				ÖDEV NUMARASI…...: PROJE ODEVI
-**				ÖÐRENCÝ ADI...............: KUTAY
-**				ÖÐRENCÝ NUMARASI.: B171210074
-**				DERS GRUBU…………: D
-****************************************************************************/
 
 #include<iostream>
 #include<Windows.h>
